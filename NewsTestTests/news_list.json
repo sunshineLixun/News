@@ -1,0 +1,495 @@
+{
+    "news_list": [
+                  {
+                  "id": 1,
+                  "type": 1,
+                  "channel": "互联网",
+                  "news_title": "冰桶挑战赛：被玩坏了的公益营销",
+                  "intro":"从企业公关营销角度上，对于大佬们如此齐心的联手炒作“冰桶挑战赛”也很好理解。因为无论从哪方面来看，参与这次活动都是回报率极大的。",
+                  "source_url": "/st/news/news1.json",
+                  "time": "08月19日 10:45",
+                  "source": "百度",
+                  "readtimes": 3903,
+                  "auther": "李东楼", 
+                  "images": [
+                             {
+                             "url": "/st/news/news1-1.jpg",
+                             "width": 300,
+                             "height": 300
+                             }
+                             ]
+                  },
+                  {
+                  "id": 2,
+                  "type": 1,
+                  "channel": "互联网",
+                  "news_title": "诺基亚的今天会是小米的明天么",
+                  "intro":"向死而生，我们不需要一个永远不倒闭不衰落的小米公司或者诺基亚公司，我们需要的是一个更好的小米和诺基亚。",
+                  "source_url": "/st/news/news2.json",
+                  "time": "08月19日 10:14",
+                  "source": "百度",
+                  "readtimes": 2088,
+                  "auther": "陈纪英",
+                  "images": [
+                             {
+                             "url": "/st/news/news2-1.jpg",
+                             "width": 300,
+                             "height": 180
+                             }
+                             ]
+                  },
+                  {
+                  "id": 3,
+                  "type": 1,
+                  "channel": "互联网",
+                  "news_title": "奇葩的宜家：3大不死秘籍",
+                  "intro":"宜家的确很奇葩，一个传统企业，在电商这个12级海啸的大浪里，竟然一直独善其身，2013年宜家网站的访问量增长了将近20%，而与此同时其线下店的客流量则下降了1%。才1%，估计很多传统家居的企业看到都要撞墙了。宜家有3大不死秘籍.",
+                  "source_url": "/st/news/news3.json",
+                  "time": "08月19日 07:00",
+                  "source": "虎嗅",
+                  "readtimes": 3555,
+                  "auther": "金错刀",
+                  "images": [
+                             {
+                             "url": "/st/news/news3-1.jpg",
+                             "width": 300,
+                             "height": 184
+                             },
+                             {
+                             "url": "/st/news/news3-2.jpg",
+                             "width": 300,
+                             "height": 150
+                             }
+                             ]
+                  },
+                  {
+                  "id": 4,
+                  "type": 1,
+                  "channel": "互联网",
+                  "news_title": "从兔八哥到大笨狼怀尔：查克·琼斯的动画天赋",
+                  "intro":"新华网8月15日电 据美国科技博客Gizmodo报道，如果我没猜错，你的童年时光有一大部分是和查克·琼斯度过的，即使在那个时候，你根本不知道查克·琼斯是谁。",
+                  "source_url": "/st/news/news4.json",
+                  "time": "2014年08月15日 10:57:45",
+                  "source": "新华国际",
+                  "readtimes": 8864,
+                  "auther": "王俊景",
+                  "images": [
+                             {
+                             "url": "/st/news/news4-1.jpg",
+                             "width": 300,
+                             "height": 136
+                             },
+                             {
+                             "url": "/st/news/news4-2.jpg",
+                             "width": 300,
+                             "height": 386
+                             },
+                             {
+                             "url": "/st/news/news4-3.jpg",
+                             "width": 300,
+                             "height": 226
+                             }
+                             ]
+                  },
+                  {
+                  "id": 5,
+                  "type": 2,
+                  "channel": "科技",
+                  "news_title": "Kickstarter打破女性创业者迷途",
+                  "intro":"众筹网站给了更多的创业者融资的机会，拥有良好沟通能力的女性更容易在网站上获得投资，观察Kickstarter和CircleUp的投融资数据，可以很明显的看出，女性领导的产品融资效果更好。女性可以绕过硅谷的“潜规则”，欧美的女创业者随之大增。",
+                  "source_url": "/st/news/news5.json",
+                  "time": "08月18日 07:41",
+                  "source": "百度",
+                  "readtimes": 20000,
+                  "auther": "文庚淼",
+                  "images": [
+                             {
+                             "url": "/st/news/news5-1.jpg",
+                             "width": 300,
+                             "height": 302
+                             },
+                             {
+                             "url": "/st/news/news5-2.jpg",
+                             "width": 300,
+                             "height": 137
+                             }
+                             ]
+                  },
+                  {
+                  "id": 6,
+                  "type": 2,
+                  "channel": "科技",
+                  "news_title": "为何微软Win8商店充斥大量诈骗应用",
+                  "intro":"外媒BGR写道，微软或许在Win8商店的帮助下偷走用户的钱。在对Win8商店“cesspool of scams”（诈骗污水池）深度广泛的审视后，How-To Geek揭密了为何Windows8商店充满了流行付费应用的山寨版，用户会在不知情的情况下付款。",
+                  "source_url": "/st/news/news6.json",
+                  "time": "2014-8-19 11:34:29",
+                  "source": "IT之家",
+                  "readtimes": 6078,
+                  "auther": "蓝莲",
+                  "images": [
+                             {
+                             "url": "/st/news/news6-1.jpg",
+                             "width": 300,
+                             "height": 190
+                             }
+                             ]
+                  },
+                  {
+                  "id": 7,
+                  "type": 2,
+                  "channel": "科技",
+                  "news_title": "iOS8正式版9月9日见 PP助手提供一站式服务",
+                  "intro":"据外国Re/code网站获取的内部消息，苹果将于9月9日举行秋季新品发布会，这一消息还获得包括《华尔街日报》、《彭博社》在内的多家重量级媒体的确认，看来这个日子已经十拿九稳了。",
+                  "source_url": "/st/news/news7.json",
+                  "time": "2014-8-19 12:03:41",
+                  "source": "IT之家网站",
+                  "readtimes": 20,
+                  "auther": "小智",
+                  "images": [
+                             {
+                             "url": "/st/news/news7-1.jpg",
+                             "width": 300,
+                             "height": 213
+                             },
+                             {
+                             "url": "/st/news/news7-2.jpg",
+                             "width": 300,
+                             "height": 213
+                             },
+                             {
+                             "url": "/st/news/news7-3.jpg",
+                             "width": 300,
+                             "height": 213
+                             },
+                             {
+                             "url": "/st/news/news7-4.jpg",
+                             "width": 300,
+                             "height": 130
+                             }
+                             ]
+                  },
+                  {
+                  "id": 40,
+                  "type": 6,
+                  "channel": "图片",
+                  "news_title": "北京金水桥更换金色护栏",
+                  "intro": "2014年8月16日，北京，天安门前7座金水桥上原有的白色护栏被拆除，更换为与天安门地区护栏风格、色调一致的金色护栏。该金色护栏由中国兵器工业集团公司生产制造。这种金色护栏采用高强度的特殊不锈钢制造而成，内置铰链可以在受到外界冲击时保证护栏“弯而不散”。",
+                  "source_url": "/st/news/news40.json",
+                  "time": "2014-08-15 22:18:43",
+                  "source": "网易",
+                  "readtimes": 7953,
+                  "auther": "w新闻",
+                  "images": [
+                             {
+                             "url": "/st/news/news40-1.jpg",
+                             "width": 300,
+                             "height": 200
+                             },
+                             {
+                             "url": "/st/news/news40-2.jpg",
+                             "width": 300,
+                             "height": 197
+                             },
+                             {
+                             "url": "/st/news/news40-3.jpg",
+                             "width": 300,
+                             "height": 200
+                             }
+                             ]
+                  },
+                  {
+                  "id": 20,
+                  "type": 1,
+                  "channel": "互联网",
+                  "news_title": "好收益创始人：探索垂直化 专注车房贷P2P模式",
+                  "intro": "i黑马注：P2P网贷在经过初期的疯狂增长后，开始有企业尝试探索垂直化。好收益就是这样一家公司，只做房产、汽车的贷款业务，并减少对担保公司的依赖。目前上线仅仅四个月，好收益已经实现了盈亏平衡，盈利指日可待。",
+                  "source_url": "/st/news/news20.json",
+                  "time": "2014-08-19 10:45:31",
+                  "source": "和讯网",
+                  "readtimes": 5000,
+                  "auther": "i黑马",
+                  "images": [
+                             {
+                             "url": "/st/news/news20-1.jpg",
+                             "width": 300,
+                             "height": 280
+                             },
+                             {
+                             "url": "/st/news/news20-2.jpg",
+                             "width": 300,
+                             "height": 400
+                             }
+                             ]
+                  },
+                  {
+                  "id": 21,
+                  "type": 1,
+                  "channel": "互联网",
+                  "news_title": "阿里巴巴起诉自媒体人葛甲名誉侵权 索赔50万元",
+                  "intro": "8日有媒体报道，阿里巴巴集团已对自媒体作者葛甲提起诉讼，认为葛甲损害了阿里的名誉权。",
+                  "source_url": "/st/news/news21.json",
+                  "time": "2014-08-19 12:54",
+                  "source": "百度",
+                  "readtimes": 3781,
+                  "auther": "DoNews",
+                  "images": [
+                             {
+                             "url": "/st/news/news21-1.jpg",
+                             "width": 300,
+                             "height": 253
+                             },
+                             {
+                             "url": "/st/news/news21-2.jpg",
+                             "width": 300,
+                             "height": 211
+                             },
+                             {
+                             "url": "/st/news/news21-3.jpg",
+                             "width": 300,
+                             "height": 200
+                             }
+                             ]
+                  },
+                  {
+                  "id": 53,
+                  "type": 6,
+                  "channel": "图片",
+                  "news_title": "冰桶挑战赛：被玩坏了的公益营销",
+                  "intro": "从企业公关营销角度上，对于大佬们如此齐心的联手炒作“冰桶挑战赛”也很好理解。因为无论从哪方面来看，参与这次活动都是回报率极大的。",
+                  "source_url": "/st/news/news53.json",
+                  "time": "08月19日 20:45",
+                  "source": "百度新闻",
+                  "readtimes": 3903,
+                  "auther": "美景美人",
+                  "images": [
+                             {
+                             "url": "/st/news/news53-1.jpg",
+                             "width": 300,
+                             "height": 280
+                             },
+                             {
+                             "url": "/st/news/news53-2.jpg",
+                             "width": 300,
+                             "height": 400
+                             },
+                             {
+                             "url": "/st/news/news53-3.jpg",
+                             "width": 300,
+                             "height": 250
+                             }
+                             ]
+                  },
+                  {
+                  "id": 25,
+                  "type": 3,
+                  "channel": "社会",
+                  "news_title": "河北女村干部街头被打死 嫌犯疑为镇党委副书记",
+                  "intro":"河北省新乐市承安镇良庄村党支部副书记王俊敏在新乐市街头遭殴打后不治身亡。 家属供图。",
+                  "source_url": "/st/news/news25.json",
+                  "time": "2014-08-19 21:02",
+                  "source": "腾讯",
+                  "readtimes":5000,
+                  "auther": "王俊敏",
+                  "images": [
+                             {
+                             "url": "/st/news/news25-1.jpg",
+                             "width": 300,
+                             "height": 226
+                             }
+                             ]
+                  },
+                  {
+                  "id": 56,
+                  "type": 6,
+                  "channel": "图片",
+                  "news_title": "国际空间站宇航员推特分享北京夜景",
+                  "intro": "如何俯瞰一座现代城市的夜景？人们通常选择登高、站在峰顶或是人造楼台，而世界上还有极少几个人，他们可以有幸在太空轨道上巡天俯瞰地球上的每一座城市和山川湖海。国际空间站美国宇航员里德-怀斯曼经常在twitter上分享摄影。8月12日他上传了太空中看到的北京夜景，他说，“中国北京是一座特大城市，夜空下很容易辨认出来。",
+                  "source_url": "/st/news/news56.json",
+                  "time": "08月19日 10:45",
+                  "source": "中国新闻网",
+                  "readtimes": 5656,
+                  "auther": "空间站",
+                  "images": [
+                             {
+                             "url": "/st/news/news56-1.jpg",
+                             "width": 300,
+                             "height": 214
+                             },
+                             {
+                             "url": "/st/news/news56-2.jpg",
+                             "width": 300,
+                             "height": 300
+                             },
+                             {
+                             "url": "/st/news/news56-3.jpg",
+                             "width": 300,
+                             "height": 199
+                             }
+                             ]
+                  },
+                  {
+                  "id": 31,
+                  "type":5,
+                  "channel": "体育",
+                  "news_title": "金哨巴维塔正式宣布退役 74岁高龄缔造不老传奇",
+                  "intro":"今日，NBA官方宣布，曾连续执法2635场比赛的NBA著名裁判迪克-巴维塔正式退役。迪克-巴维塔在1975年12月2日开始了自己的裁判生涯。此后，他连续执法了2635场常规赛，这也创下了NBA的历史记录。巴维塔也执法了270场季后赛，其中包括27场总决赛。值得一提的是，在整个39年的执法生涯中，他从未缺席联盟指派的任何一场比赛。",
+                  "source_url": "/st/news/news31.json",
+                  "time": "08月20日 07:32",
+                  "source": "网易体育",
+                  "readtimes": 14903,
+                  "auther": "焱",
+                  "images": [
+                             {
+                             "url": "/st/news/news31-1.jpg",
+                             "width": 300,
+                             "height": 200
+                             }
+                             ]
+                  },
+                  {
+                  "id": 57,
+                  "type": 6,
+                  "channel": "图片",
+                  "news_title": "解放军三军仪仗队着新式礼宾服亮相",
+                  "intro": "仪仗队、军乐团新式礼宾服，是根据中央关于改进外事礼宾工作的有关指示精神，在07式礼宾服基础上，融合我军传统和民族特色进行调整改进的。经过系统研究论证、多次征求意见、反复修改完善，新式礼宾服在样式、用料、颜色和标志服饰等方面进行了创新设计和整体优化，新增了仪仗队女礼宾服、夏礼宾服和军乐团夏仪式演奏服、行进演奏服、宴会演奏服等品种。调整改进后的新式礼宾服，对于更好地展示国威军威将发挥重要作用。",
+                  "source_url": "/st/news/news57.json",
+                  "time": "08月19日 10:45",
+                  "source": "中国新闻网",
+                  "readtimes": 7000,
+                  "auther": "周永康",
+                  "images": [
+                             {
+                             "url": "/st/news/news57-1.jpg",
+                             "width": 300,
+                             "height": 229
+                             },
+                             {
+                             "url": "/st/news/news57-2.jpg",
+                             "width": 300,
+                             "height": 200
+                             },
+                             {
+                             "url": "/st/news/news57-3.jpg",
+                             "width": 300,
+                             "height": 225
+                             }
+                             ]
+                  },
+                  {
+                  "id": 34,
+                  "type": 4,
+                  "channel": "娱乐",
+                  "news_title": "《亲爱的》黄渤演绎最戳心“寻子父亲”",
+                  "intro": "电影《亲爱的》讲述了一个纠结曲折的寻子故事，在片中，黄渤饰演了一位经历磨难的“寻子父亲”。内心无法摆脱的愧疚和负罪感使得黄渤的寻子之路一走就是三年。",
+                  "source_url": "/st/news/news34.json",
+                  "time": "08月20日 09:40",
+                  "source": "新浪娱乐",
+                  "readtimes": 3903,
+                  "auther": "隐",
+                  "images": [
+                             {
+                             "url": "/st/news/news34-1.jpg",
+                             "width": 300,
+                             "height": 440
+                             },
+                             {
+                             "url": "/st/news/news34-2.jpg",
+                             "width": 300,
+                             "height": 440
+                             }
+                             ]
+                  },
+                  {
+                  "id": 36,
+                  "type": 4,
+                  "channel": "娱乐",
+                  "news_title": "上海演艺界：反对涉毒吸毒 “让正能量控股",
+                  "intro": "8月19日，上海市演出行业协会韦芝会长向澎湃新闻网公开表态，坚决反对演出界所有人员涉毒、吸毒。",
+                  "source_url": "/st/news/news36.json",
+                  "time": "2014-08-19 15:00:00",
+                  "source": " 腾讯网",
+                  "readtimes": 5659,
+                  "auther": "张喆、廖阳",
+                  "images": [
+                             {
+                             "url": "/st/news/news36-1.jpg",
+                             "width": 300,
+                             "height": 168
+                             }
+                             ]
+                  },
+                  {
+                  "id": 59,
+                  "type": 6,
+                  "channel": "图片",
+                  "news_title": "四川开展危化“火灾”演练 现场火光冲天",
+                  "intro": "四川开展的危险“火灾”演练，现场火光冲天，附近经过的路人都惊呆了，这只是一场演习，貌似是国内最大的一场火灾演戏了",
+                  "source_url": "/st/news/news59.json",
+                  "time": "2014年08月19日 07:15:34",
+                  "source": "中国新闻网",
+                  "readtimes": 5000,
+                  "auther": "黄玥",
+                  "images": [
+                             {
+                             "url": "/st/news/news59-1.jpg",
+                             "width": 300,
+                             "height": 203
+                             },
+                             {
+                             "url": "/st/news/news59-2.jpg",
+                             "width": 300,
+                             "height": 210
+                             },
+                             {
+                             "url": "/st/news/news59-3.jpg",
+                             "width": 300,
+                             "height": 210
+                             }
+                             ]
+                  },
+                  {
+                  "id": 37,
+                  "type": 5,
+                  "channel": "体育",
+                  "news_title": "多特CEO回击贝皇:受不了 拜仁还组团开聊罗伊斯",
+                  "intro":"为发烧而生，是当初小而美的小米的初心。然而，从小而美到大而强，走着走着，就忘记自己为什么出发。当初流淌在企业血液中的极简文化基因，现在还剩多少？",
+                  "source_url": "/st/news/news37.json",
+                  "time": "2014年08月19日 17:49",
+                  "source": "网易体育",
+                  "readtimes": 3992,
+                  "auther": "七十二编",
+                  "images": [
+                             {
+                             "url": "/st/news/news37-1.jpg",
+                             "width": 300,
+                             "height": 154
+                             }
+                             ]
+                  },
+                  {
+                  "id": 38,
+                  "type": 5,
+                  "channel": "体育",
+                  "news_title": "郜林：倒钩如何判罚都正常京媒：绝杀应无效",
+                  "intro": "新浪体育讯　在2014赛季中超联赛第21轮广州恒大主场2-1战胜天津泰达的比赛中，泰达主帅阿里汉以及中方教练组向裁判提出质疑，认为在刘健打入绝杀球之前郜林倒勾时抬脚过高，属于危险动作，有犯规的嫌疑。",
+                  "source_url": "/st/news/news38.json",
+                  "time": "2014年08月19日22: 27",
+                  "source": "新浪体育",
+                  "readtimes": 39,
+                  "auther": "李哲",
+                  "images": [
+                             {
+                             "url": "/st/news/news38-1.jpg",
+                             "width": 300,
+                             "height": 500
+                             }
+                             ]
+                  }
+             ],
+    "info": {
+        "pages": 2,
+        "currentpage": 1,
+        "count": "20",
+        "type": "news"
+    }
+}
