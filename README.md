@@ -1,2 +1,2 @@
 # News
-##cell的合并展开 swiftJSON解析
+##cell的合并展开 SwiftJSON解析
